@@ -14,6 +14,7 @@ Handled missing values, standardized data formats, and ensured referential integ
 
 Sentiment Analysis (Python):
 Used Python to process customer reviews and generate sentiment scores and categories (Positive, Mixed Positive, Mixed Negative, Negative, Neutral), enriching the dataset for deeper insights into customer perception.
+[View Python script](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
 
 Data Loading (Power BI):
 Cleaned and enriched datasets were imported into Power BI where DAX measures and calculated columns were created for analysis and visualization.
