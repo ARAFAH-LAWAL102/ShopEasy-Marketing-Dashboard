@@ -2,11 +2,23 @@
 # Project Overview
 ShopEasy, an online retail business,was facing reduced customer engagement and coversion rates despite launching several new online marketing campaign.They want deatailed analysis to identify area for improvement in their marketing strategies.
 # Objectives
-- This project aimed to leverage data to understand why these trends were occurring, where customers were dropping off, and to provide actionable insights for optimizing marketing efforts and improving customer conversion across the entire journey.
+- Understand key customer behavior trends using journey and engagement data.
+
+- Identify critical drop-off points along the customer journey funnel.
+
+- Analyze campaign performance to uncover strengths and weaknesses.
+
+- Generate actionable insights to optimize marketing strategies.
+
+- Support data-driven decisions to improve customer conversion and overall campaign effectiveness.
+
+
+# Dataset 
+![Download the Database bak file](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Episode%202%20-%20PortfolioProject_MarketingAnalytics.bak)
 
 
 # Data Structure
-Data Preparation (ETL)
+
 The dataset underwent a series of transformation and enrichment steps using SQL and Python to ensure it's ready for analysis. Key processes include:
 
 Data Cleaning & Transformation (SQL):
@@ -20,12 +32,14 @@ Data Loading (Power BI):
 Cleaned and enriched datasets were imported into Power BI where DAX measures and calculated columns were created for analysis and visualization.
 
 The company main database structure as seen below consists of five tables with over 10,000 records. A description of each table is as follows
-- dim_customer — Customer ID, CustomerNames, Emails, Age, Country,City
+- dim_customer — Customer ID, CustomerNames, Emails, Age, Country, City
 - dim_product — ProductNames,Product ID, Prices
 - fact_Customer_Journey_table — Journey ID, Customer ID, Ation, Stages, VisitDate
-- fact_Customer_Engagement_table c Campaign ID, Content Type, EngagementID, EngagementDate, Views, Clicks,Likes
-- fact_Customer_Reviews — ReviewID, ReviewDate,CustomerID, ProductID,Rating
+- fact_Customer_Engagement_table c Campaign ID, Content Type, EngagementID, EngagementDate, Views, Clicks, Likes
+- fact_Customer_Reviews — ReviewID, ReviewDate,CustomerID, ProductID, Rating
 - fact_customer_Review_with_sentiment — ReviewID, ReviewDate,CustomerID, ProductID, Rating, Sentimentscores, SentimentCategory, SentimentBucket
+
+
 ![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/r_data_model.png)
 
 
@@ -36,3 +50,7 @@ SQL queries used for inspection and data cleaning here → [link]
 Business-question-specific SQL queries here → [link]
 
 Power BI dashboard with interactive visuals here → [Power BI dashboard link]
+
+
+# Executive Summary
+ShopEasy’s overall conversion rate stands at 9.6% , representing a 5% year-over-year decline despite a 14% increase in product views totaling 9 million. Engagement rates declined across 2024 and 2025, particularly in the last quarter, with consistent October drop-offs. A significant 74% customer drop-off was observed at the checkout page, compared to only 2% on product pages, highlighting a key friction point in the journey. Campaign ID 13 performed best, and sentiment analysis revealed 61.6% positive and 16.6% negative reviews, offering valuable direction for marketing and retention efforts.
