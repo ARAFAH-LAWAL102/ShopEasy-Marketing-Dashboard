@@ -15,7 +15,9 @@ Insights and recommendations are provided in the following areas :
 
 ShopEasy database structure as shown belew consists of six tables:customer, products, customer journey, customer engagement, customer reviews and customer reviews with sentiment with total row of 11,345 records. 
 ![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/r_data_model.png)
-Interactive PowerBi [View dashboard ](
+
+
+Interactive PowerBi [View dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
 
 Sentiment analysis with python
 [View Python script](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
