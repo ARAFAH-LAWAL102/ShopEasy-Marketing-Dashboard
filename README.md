@@ -1,20 +1,19 @@
 # ShopEasy-Marketing-Dashboard
-# Project Overview
+# Project Background 
 ShopEasy, an online retail business,was facing reduced customer engagement and coversion rates despite launching several new online marketing campaign.They want deatailed analysis to identify area for improvement in their marketing strategies.
-# Objectives
-- Understand key customer behavior trends using journey and engagement data.
 
-- Identify critical drop-off points along the customer journey funnel.
+Insights and recommendations are provided in the following areas :
 
-- Analyze campaign performance to uncover strengths and weaknesses.
+- Customer Engagement details: To Understand key customer behavior trends and campaign performance. 
 
-- Generate actionable insights to optimize marketing strategies.
+- Conversion rate details: To identify critical drop-off points along the customer journey funnel.
 
-- Support data-driven decisions to improve customer conversion and overall campaign effectiveness.
+- Customer Reviews analysis:To analyze customer feedback and identify the  correlation to  conversion rate. 
+
+The interactive PowerBi dashboard 
 
 
-# Dataset 
-![Download the Database bak file](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Episode%202%20-%20PortfolioProject_MarketingAnalytics.bak)
+
 
 
 # Data Structure
