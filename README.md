@@ -6,25 +6,18 @@ Insights and recommendations are provided in the following areas :
 
 - Customer Engagement details: To Understand key customer behavior trends and campaign performance. 
 
-- Conversion rate details: To identify critical drop-off points along the customer journey funnel.
+- Conversion rate details: To identify conversion and critical drop-off points along the customer journey funnel.
 
 - Customer Reviews analysis:To analyze customer feedback and identify the  correlation to  conversion rate. 
-
-The interactive PowerBi dashboard 
-
-
-
 
 
 # Data Structure
 
-The dataset underwent a series of transformation and enrichment steps using SQL and Python to ensure it's ready for analysis. Key processes include:
+ShopEasy database structure as shown belew consists of six tables:customer, products, customer journey, customer engagement, customer reviews and customer reviews with sentiment with total row of 11,345 records. 
+![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/r_data_model.png)
+Interactive PowerBi [View dashboard ](
 
-Data Cleaning & Transformation (SQL):
-Handled missing values, standardized data formats, and ensured referential integrity across all tables (e.g., customer, product, engagement, journey, and reviews
-
-Sentiment Analysis (Python):
-Used Python to process customer reviews and generate sentiment scores and categories (Positive, Mixed Positive, Mixed Negative, Negative, Neutral), enriching the dataset for deeper insights into customer perception.
+Sentiment analysis with python
 [View Python script](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
 
 Data Loading (Power BI):
