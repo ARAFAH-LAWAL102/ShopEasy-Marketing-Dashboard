@@ -20,7 +20,9 @@ SQL queries used to extract each table and data cleaning here →
 
 [product](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.Products.sql),
 [customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql),
-[customer engagement](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_engagement.sql)
+[customer engagement](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_engagement.sql),
+[customer journey](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_journey.sql),
+[customer reviews]
 
 Business-question-specific SQL queries here → [link]
 
