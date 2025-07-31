@@ -16,10 +16,11 @@ Insights and recommendations are provided in the following areas :
 ShopEasy database structure as shown belew consists of six tables:customer, products, customer journey, customer engagement, customer reviews and geography with total row of 11,345 records. 
 ![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/DB.png)
 
-SQL queries used for inspection and data cleaning here → 
+SQL queries used to extract each table and data cleaning here → 
 
 [product](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.Products.sql),
-[customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql)
+[customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql),
+[customer engagement](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_engagement.sql)
 
 Business-question-specific SQL queries here → [link]
 
