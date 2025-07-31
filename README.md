@@ -22,14 +22,14 @@ SQL queries used to extract each table and data cleaning here →
 [customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql),
 [customer engagement](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_engagement.sql),
 [customer journey](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_journey.sql),
-[customer reviews]
+[customer reviews](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_reviews.sql)
 
-Business-question-specific SQL queries here → [link]
-
-Interactive PowerBi [View dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
 
 Sentiment analysis with python
 [View Python script](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
+
+Interactive PowerBi [View dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
+
 
 # Executive Overview
 
