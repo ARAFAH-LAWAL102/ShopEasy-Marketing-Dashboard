@@ -17,7 +17,9 @@ ShopEasy database structure as shown belew consists of six tables:customer, prod
 ![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/DB.png)
 
 SQL queries used for inspection and data cleaning here → 
-[product](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.Products.sql)
+
+[product](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.Products.sql),
+[customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql)
 
 Business-question-specific SQL queries here → [link]
 
