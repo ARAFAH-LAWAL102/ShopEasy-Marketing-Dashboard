@@ -1,7 +1,7 @@
 # ShopEasy-Marketing-Dashboard
 # Project Background 
 
-ShopEasy, a growing online retail business, was experiencing a noticeable decline in customer engagement and conversion rates, despite launching multiple  marketing campaigns. To address this challenge, the company needed a comprehensive analysis to uncover what was working, what wasn’t, and where marketing efforts could be optimized.
+ShopEasy, a growing online retail business, experienced a noticeable decline in customer engagement and conversion rates, despite launching multiple  marketing campaigns. To address this challenge, the company needed a comprehensive analysis to uncover what was working, what wasn’t, and where marketing efforts could be optimized.
 
 This report presents data-driven insights and actionable recommendations across three critical focus areas:
 
@@ -14,14 +14,21 @@ Customer Review Analysis: To assess customer sentiment and determine how product
 
 
 
-Interactive PowerBI Dashboard [ Download here](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
+## 🛠 Tools Used
+
+- **SQL** – Data extraction, cleaning, and transformation
+- **Python (Pandas, NLTK/TextBlob)** – Sentiment analysis of customer reviews
+- **Power BI** – Interactive dashboards and visual storytelling
+- **Excel** – Preliminary data exploration and formatting
+- **GitHub** – Version control and project documentation
+
 
 # Data Structure
 
 ShopEasy database structure as shown belew consists of six tables:customer, products, customer journey, customer engagement, customer reviews and geography with total row of 11,345 records. 
 ![Data Model](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/DB.png)
 
-SQL queries used to extract each table and data cleaning here → 
+SQL queries for data extraction and cleaning (see scripts here) → 
 
 [product](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.Products.sql),
 [customer](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/dim.customer.sql),
@@ -37,7 +44,7 @@ Python code used for customer sentiment analysis
 
 
 # Executive Summary
-## Overview of Findings ##
+### Overview of Findings ##
 
 ShopEasy’s overall conversion rate is 9.6%, marking a 5% YoY decline, while CTR dropped 9% to 19.7%—despite a 14% rise in product views, reaching 9 million. Engagement steadily declined across 2024–2025, with consistent drop-offs in Q4, especially in October. A major friction point was identified at the checkout page, with a 74% drop-off rate, compared to just 2% on product pages. Campaign ID 13,20,16,14,18 showed top performance, and sentiment analysis revealed 61.6% positive and 16.6% negative reviews, offering insights to guide marketing and retention strategies.
 
@@ -48,7 +55,7 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/PowerBI%20dashboard1.png)
 
 # Insights Deep Dive
-## Customer Engagement Details:
+### Customer Engagement Details:
 
 - Video content led engagement rates at 24.6%, followed closely by Social Media (24.2%) and Blog (23.9%), highlighting video as the most effective format.
 
@@ -60,7 +67,7 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%202.png)
 
-## Conversion Rate Details
+### Conversion Rate Details
 
 - Overall conversion rate was 9.6%, with a major drop-off (74%) at the checkout stage, revealing a key friction point.
 
@@ -79,7 +86,7 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 
 ![dashbard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%203.png)
 
-## Customer Review Analysis
+### Customer Review Analysis
 
 The Customer Review Analysis dashboard revealed critical patterns around customer experience and product performance:
 
@@ -99,7 +106,7 @@ The Customer Review Analysis dashboard revealed critical patterns around custome
 
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%204.png)
 
-# RECOMMENDATIONS
+# Recommendations
 To address declining customer engagement and low conversion rates despite running multiple campaigns, ShopEasy should adopt a more data-driven and targeted marketing strategy. Key recommendations include:
 
 - Align Campaigns with Top-Performing Content Types:
