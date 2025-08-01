@@ -55,4 +55,22 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%202.png)
 
+## Conversion Rate Details
+
+
+- Customer flow: 2,070 viewed → 1,066 clicked → 198 purchased.
+
+- By age: Highest rate in 25–34 (10.9%), lowest in 45–54 (7.8%).
+
+- By country: Germany led with 11.8%, Sweden lowest at 5.2%.
+
+- Top converting products: Hockey Stick, Baseball Gloves, Ski Boots  Cycling Helmet, Surfboard.
+
+- Product page drop-offs: Running shoes (4), Fitness Tackers (3) Surfboard, Dumbbells, Hockey Stick, Golf Clubs (2 each); others like Cycling Helmet and Tennis Racket (1 each).
+
+- Checkout drop-offs: Basketball (40), Hockey Stick (38), Cycling Helmet (37) Swimming Googles (36)
+
+
+![dashbard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%203.png)
+
 
