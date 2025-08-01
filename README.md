@@ -26,8 +26,8 @@ SQL queries used to extract each table and data cleaning here →
 [customer reviews](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/fact_customer_reviews.sql)
 
 
-Sentiment analysis with python
-[View Python script](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
+Python code used for customer sentiment analysis 
+[here](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/python%20script%20seg%20analysis)
 
 
 
@@ -38,6 +38,12 @@ Sentiment analysis with python
 ShopEasy’s overall conversion rate stands at 9.6% , representing a 5% year-over-year decline despite a 14% increase in product views totaling 9 million. Engagement rates declined across 2024 and 2025, particularly in the last quarter, with consistent October drop-offs. A significant 74% customer drop-off was observed at the checkout page, compared to only 2% on product pages, highlighting a key friction point in the journey. Campaign ID 13 performed best, and sentiment analysis revealed 61.6% positive and 16.6% negative reviews, offering valuable direction for marketing and retention efforts.
 
 Below is the overview page  from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
+
+![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/d1.png)
+
+# Insight Deep Dive
+## Customer Engagement Details:##
+- The company's engagement rate peaked Ja
 
 
 You can view:
