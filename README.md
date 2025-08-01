@@ -1,16 +1,20 @@
 # ShopEasy-Marketing-Dashboard
 # Project Background 
-ShopEasy, an online retail business,was facing reduced customer engagement and coversion rates despite launching several new online marketing campaign.They want deatailed analysis to identify area for improvement in their marketing strategies.
 
-Insights and recommendations are provided in the following areas :
+ShopEasy, a growing online retail business, was experiencing a noticeable decline in customer engagement and conversion rates, despite launching multiple  marketing campaigns. To address this challenge, the company needed a comprehensive analysis to uncover what was working, what wasn’t, and where marketing efforts could be optimized.
 
-- Customer Engagement details: To Understand key customer behavior trends and campaign performance. 
+This report presents data-driven insights and actionable recommendations across three critical focus areas:
 
-- Conversion rate details: To identify conversion and critical drop-off points along the customer journey funnel.
 
-- Customer Reviews analysis:To analyze customer feedback and identify the  correlation to  conversion rate. 
+Customer Engagement Details: To uncover trends in how users interact with various content types, campaigns, and engagement channels.
 
-Interactive PowerBi can be downloaded  [here](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
+Conversion Rate Details: To identify friction points and drop-offs in the customer journey funnel—from product views to final purchases.
+
+Customer Review Analysis: To assess customer sentiment and determine how product feedback influences conversion behavior.
+
+
+
+Interactive PowerBI Dashboard [ Download here](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
 
 # Data Structure
 
@@ -45,32 +49,75 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 
 # Insights Deep Dive
 ## Customer Engagement Details:
-- Video content drove the highest engagement at 24.6%, followed closely by social media (24.2%) and blogs (23.9%).
 
-- Top Performing Campaigns by Content Type: Campaign 20 led blog engagement with 21.68%, Campaign 13 performed best on social media with 21.15%, Campaign 14 stood out in video content, achieving 22.75% engagement.
+- Video content led engagement rates at 24.6%, followed closely by Social Media (24.2%) and Blog (23.9%), highlighting video as the most effective format.
 
-- Engagement Across Days of the Week: Video content peaked on Wednesdays and Thursdays, social media performed best on Fridays and Saturdays and blogs had higher engagement on Mondays and Tuesdays.
+- Campaign-wise, Campaign 20 performed best for Blog content (21.66%), Campaign 13 for Social Media (21.15%), and Campaign 14 for Video (22.75%), indicating strong campaign-content synergy.
 
-- CTR Trend by Campaign: Overall click-through rates declined monthly but Campaign 18 saw the sharpest drop in October.
+- Weekly engagement trends revealed Wednesdays and Thursdays as peak days for Video, while Blog content performed best on Mondays and Tuesdays, and Social Media on Fridays and Saturdays.
+
+- Click-through rates (CTR) declined over time, with a notable dip in October, especially for Campaign 18, suggesting a need for campaign performance optimization.
 
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%202.png)
 
 ## Conversion Rate Details
 
+- Overall conversion rate was 9.6%, with a major drop-off (74%) at the checkout stage, revealing a key friction point.
 
-- Customer flow: 2,070 viewed → 1,066 clicked → 198 purchased.
+- Out of 2,070 viewers, only 198 completed purchases, with 598 drop-offs post-click, suggesting room for funnel improvement.
 
-- By age: Highest rate in 25–34 (10.9%), lowest in 45–54 (7.8%).
+- The 25–34 age group had the highest conversion rate at 10.9%, while 45–54 lagged behind at 7.8%.
 
-- By country: Germany led with 11.8%, Sweden lowest at 5.2%.
+- Germany (11.8%) and the Netherlands (11.5%) topped country-level conversion rates, whereas Sweden (5.2%) ranked lowest.
 
-- Top converting products: Hockey Stick, Baseball Gloves, Ski Boots  Cycling Helmet, Surfboard.
+- The top-performing products included Hockey Stick (15.5%), Ski Boots (14.6%), and Baseball Glove (13.7%), indicating product-market fit.
 
-- Product page drop-offs: Running shoes (4), Fitness Tackers (3) Surfboard, Dumbbells, Hockey Stick, Golf Clubs (2 each); others like Cycling Helmet and Tennis Racket (1 each).
+- Drop-off analysis: At the checkout stage, the highest abandonment was seen for Basketballs, Hockey Sticks, Cycling Helmets, and Swimming Goggles, suggesting urgency in simplifying or optimizing the final purchase step.
 
-- Checkout drop-offs: Basketball (40), Hockey Stick (38), Cycling Helmet (37) Swimming Googles (36)
+ - At the product page stage, Running Shoes, Fitness Trackers, Surfboards, and Dumbbells saw the most drop-offs — possibly due to unclear product value, visuals, or pricing concerns.
 
 
 ![dashbard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%203.png)
+
+## Customer Review Analysis
+
+The Customer Review Analysis dashboard revealed critical patterns around customer experience and product performance:
+
+- Positive reviews dominate (840 out of ~1,360), but there's a significant portion of negative (226) and mixed (282) sentiment, pointing to inconsistent customer satisfaction.
+
+- The bottom 5 rated products — Volleyball, Running Shoes, Tennis Racket, Yoga Mat, and Golf Clubs — all average below 3.6 stars, indicating potential product quality or customer expectation issues.
+
+- Complaint breakdowns show recurring issues like:
+
+    - Product durability (e.g., Fitness Tracker, Dumbbells, Volleyball Ski Boots breaking after short use).
+
+    - Service or experience dissatisfaction (e.g., Golf Clubs, Running Shoes).
+
+    - Mismatched product expectations (e.g., Football Helmet differing from what's shown).
+
+- The scatter plot analysis of conversion rate vs. average product rating shows no strong linear correlation — some products with lower ratings still convert well, and vice versa. This suggests that factors beyond rating (such as branding, urgency, or promotions) affect conversion.
+
+![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%204.png)
+
+# RECOMMENDATIONS
+To address declining customer engagement and low conversion rates despite running multiple campaigns, ShopEasy should adopt a more data-driven and targeted marketing strategy. Key recommendations include:
+
+- Align Campaigns with Top-Performing Content Types:
+Optimize marketing impact by pairing each campaign with the content type it performs best with—e.g., Campaign 20 (blog), Campaign 13 (social media), Campaign 14 (video).
+
+- Leverage High-Engagement Content and Timing:
+Focus on video content, which had the highest engagement (24.6%), especially on Wednesdays and Thursdays. Schedule social media content for weekends and blog posts earlier in the week to match audience behavior.
+
+- Reduce Checkout Abandonment:
+Address the 74% drop-off at the checkout stage by simplifying the process, adding trust signals, and introducing retargeting strategies for cart abandoners.
+
+- Segment and Personalize Campaigns:
+Target top-performing demographics (e.g., age group 25–34 and users from Germany) with tailored messaging. Retarget users who viewed or clicked but didn’t purchase using email and ad remarketing.
+
+- Act on Customer Feedback:
+Improve products and messaging based on review sentiment. Promote highly rated items and resolve negative feedback themes to build trust.
+
+- Track and Optimize Campaign Performance:
+Monitor CTR trends to identify underperforming campaigns (e.g., Campaign 18’s dip in October) and adjust messaging, visuals, and targeting accordingly
 
 
