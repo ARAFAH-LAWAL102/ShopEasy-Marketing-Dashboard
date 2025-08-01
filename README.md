@@ -35,14 +35,16 @@ Python code used for customer sentiment analysis
 # Executive Summary
 ## Overview of Findings ##
 
-ShopEasy’s overall conversion rate stands at 9.6% , representing a 5% year-over-year decline despite a 14% increase in product views totaling 9 million. Engagement rates declined across 2024 and 2025, particularly in the last quarter, with consistent October drop-offs. A significant 74% customer drop-off was observed at the checkout page, compared to only 2% on product pages, highlighting a key friction point in the journey. Campaign ID 13 performed best, and sentiment analysis revealed 61.6% positive and 16.6% negative reviews, offering valuable direction for marketing and retention efforts.
+ShopEasy’s overall conversion rate is 9.6%, marking a 5% YoY decline, while CTR dropped 9% to 19.7%—despite a 14% rise in product views, reaching 9 million. Engagement steadily declined across 2024–2025, with consistent drop-offs in Q4, especially in October. A major friction point was identified at the checkout page, with a 74% drop-off rate, compared to just 2% on product pages. Campaign ID 13,20,16,14,18 showed top performance, and sentiment analysis revealed 61.6% positive and 16.6% negative reviews, offering insights to guide marketing and retention strategies.
+
+
 
 Below is the overview page  from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMTgzOGUwYzAtY2VkZi00NjEwLWIzNzUtZDhiOTU3N2JmMjM3IiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9) 
 
-![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/d1.png)
+![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/PowerBI%20dashboard1.png)
 
 # Insight Deep Dive
-## Customer Engagement Details:##
+## Customer Engagement Details:
 - The company's engagement rate peaked Ja
 
 
