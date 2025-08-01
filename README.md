@@ -43,16 +43,16 @@ Below is the overview page  from the PowerBI dashboard and more examples are inc
 
 ![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/PowerBI%20dashboard1.png)
 
-# Insight Deep Dive
+# Insights Deep Dive
 ## Customer Engagement Details:
-- The company's engagement rate peaked Ja
+- Video content drove the highest engagement at 24.6%, followed closely by social media (24.2%) and blogs (23.9%).
 
+- Top Performing Campaigns by Content Type: Campaign 20 led blog engagement with 21.68%, Campaign 13 performed best on social media with 21.15%, Campaign 14 stood out in video content, achieving 22.75% engagement.
 
-You can view:
+- Engagement Across Days of the Week: Video content peaked on Wednesdays and Thursdays, social media performed best on Fridays and Saturdays and blogs had higher engagement on Mondays and Tuesdays.
 
-SQL queries used for inspection and data cleaning here → [link]
+- CTR Trend by Campaign: Overall click-through rates declined monthly but Campaign 18 saw the sharpest drop in October.
 
-Business-question-specific SQL queries here → [link]
+![dashboard](https://github.com/ARAFAH-LAWAL102/ShopEasy-Marketing-Dashboard/blob/main/Powerbi%20Dashboard%202.png)
 
-Power BI dashboard with interactive visuals here → [Power BI dashboard link]
 
